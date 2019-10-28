@@ -2,4 +2,7 @@
 
 ######################  Example  ############################
 Prefered language(s): C, Python
-Full name initials: JVSR
+
+
+// use a print function
+print('input')
